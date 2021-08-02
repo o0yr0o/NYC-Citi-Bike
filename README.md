@@ -12,4 +12,10 @@ To solidify the proposal, the bike trip analysis would include:
   
 ## Results
 
+**Visusalizations can also be viewed on Tableau Public: [Bikesharing Analysis](https://public.tableau.com/app/profile/sarah4803/viz/NYCCitiBikeAnalysis_16278775824520/NYCCitiBike?publish=yes)**
+
+1. The peak hour in August is 5pm to 6 pm.
+![image](https://user-images.githubusercontent.com/82549782/127812408-30e66aed-fadc-4cd7-b738-50a53157795e.png)
+
+
 ## Summary
